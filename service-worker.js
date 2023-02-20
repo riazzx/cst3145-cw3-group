@@ -8,14 +8,15 @@ var cacheFiles = [
     'assets/coding.png',
     'assets/cooking.png',
     'assets/dance.jpg',
+    'assets/education1.jpg',
+    'assets/education2.jpg',
     'assets/idea.jpg',
     'assets/knitting.jpg',
     'assets/musical-note.jpg',
     'assets/pottery.jpg',
     'assets/science.jpg',
-    'assets/singing.jpg',
-    'assets/education1.jpg',
-    'assets/education2.jpg',
+    'assets/singing.jpg'
+    
 ]
 
 self.addEventListener('install', (e) => {

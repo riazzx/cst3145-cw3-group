@@ -7,15 +7,15 @@ var cacheFiles = [
     'assets/clapperboard.png',
     'assets/coding.png',
     'assets/cooking.png',
-    'assets/dance.jpg',
+    'assets/dance.png',
     'assets/education1.png',
     'assets/education2.png',
-    'assets/idea.jpg',
-    'assets/knitting.jpg',
+    'assets/idea.png',
+    'assets/knitting.png',
     'assets/musical-note.png',
-    'assets/pottery.jpg',
-    'assets/science.jpg',
-    'assets/singing.jpg'
+    'assets/pottery.png',
+    'assets/science.png',
+    'assets/singing.png'
     
 ]
 

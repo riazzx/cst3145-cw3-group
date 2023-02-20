@@ -15,6 +15,7 @@
         }
     ],
     "start_url" : "/index.html",
+    "scope" : "/index.html",
     "display" : "fullscreen",
     "background_color" : "#338BA8"
 }

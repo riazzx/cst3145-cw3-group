@@ -17,6 +17,11 @@
     <link rel="stylesheet" href="css/styles.css">
     <script src = "lessons.js"></script>
     <link rel="manifest" href="afterschool.webmanifest">
+    <script>
+      if ('serviceWorker' in navigator) {
+          navigator.serviceWorker.register('service-worker.js')
+      }
+  </script>
 
     <title>After School</title>
 </head>

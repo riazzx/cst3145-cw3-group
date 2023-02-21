@@ -3,19 +3,7 @@ var cacheFiles = [
     'index.html',
     'lessons.js',
     'afterschool.webmanifest',
-    'assets/book.png',
-    'assets/clapperboard.png',
-    'assets/coding.png',
-    'assets/cooking.png',
-    'assets/dance.png',
-    'assets/education1.png',
-    'assets/education2.png',
-    'assets/idea.png',
-    'assets/knitting.png',
-    'assets/musical-note.png',
-    'assets/pottery.png',
-    'assets/science.png',
-    'assets/singing.png'
+    'assets'
     
 ]
 

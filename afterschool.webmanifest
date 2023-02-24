@@ -4,6 +4,11 @@
     "description" :"After School Activities for students.",
     "icons": [
         {
+            "src" : "assets/education1.png",
+            "sizes" : "192x192",
+            "type" : "image/png"
+        },
+        {
             "src" : "assets/education2.png",
             "sizes" : "512x512",
             "type" : "image/png"
